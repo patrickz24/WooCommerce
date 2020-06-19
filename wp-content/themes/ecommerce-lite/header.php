@@ -32,7 +32,7 @@
 	
 	<?php do_action('ecommerce_lite_nav_before'); #Nav Before Section ?>
 		<!-- nav -->
-		<nav  class="header-image">
+		<nav  class="header-image" style="background-color: <?= get_theme_mod('header_background'); ?>">
 			<div class="container clearfix">
 				
 				<!-- Header Content Hear  -->

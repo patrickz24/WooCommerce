@@ -6,6 +6,9 @@
  *
  * @package eCommerce_lite
  */
+
+require_once('options/apparence.php');
+
 class eCommerce_Lite_Functions{
 
 	//Construct Function
